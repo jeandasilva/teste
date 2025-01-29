@@ -1,5 +1,5 @@
-
-        #EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD¹" tvg-logo="https://prostore.app/logos/paramount.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL SD¹
+#EXTM3U
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD¹" tvg-logo="https://prostore.app/logos/paramount.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL SD¹
 http://main.appnew.pro:80/mtuwf3r4/lcs7mpt2/6946
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://prostore.app/logos/premiere.png" group-title="CANAIS | 4K UHD",PREMIERE CLUBES 4K
 http://main.appnew.pro:80/mtuwf3r4/lcs7mpt2/97215
